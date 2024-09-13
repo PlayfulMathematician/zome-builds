@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="71" field="golden" version="7.1">
-  <EditHistory editNumber="241" lastStickyEdit="-1">
+  <EditHistory editNumber="248" lastStickyEdit="-1">
     <StrutCreation anchor="0 0 0 0 0 0" index="10" len="2 4"/>
     <StrutCreation anchor="0 0 0 0 0 0" index="21" len="2 4"/>
     <StrutCreation anchor="1 1 1 2 2 3" index="41" len="2 4"/>
@@ -279,6 +279,13 @@
     <SelectManifestation point="2 4 -2 -4 -2 -4"/>
     <EndBlock/>
     <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 4 4 5 -3 -5"/>
+    <SelectManifestation point="0 -1 5 7 -3 -4"/>
+    <SelectManifestation point="2 2 4 6 0 0"/>
+    <EndBlock/>
+    <Polygon/>
     <DeselectAll/>
   </EditHistory>
   <notes/>
@@ -288,10 +295,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.389619380235672" parallel="false" stereoAngle="0.0" width="70.1314926147461">
+    <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.389619380235672" parallel="true" stereoAngle="0.0" width="70.1314926147461">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.401201069355011" y="0.7134037613868713" z="0.5745353102684021"/>
-      <LookDirection x="0.9134511351585388" y="-0.3582615554332733" z="-0.19301334023475647"/>
+      <UpDirection x="-0.80901700258255" y="0.30901700258255005" z="-0.5"/>
+      <LookDirection x="-0.1350453943014145" y="-0.9256148338317871" z="-0.3535534143447876"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
