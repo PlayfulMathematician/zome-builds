@@ -3,8 +3,8 @@ Hello, this directory is really big and contains a lot of shapes, if you are loo
 
 
 archimedean solids
-    cubeoctahedron.vZome - A cubeoctahedron
-    truncated-tetrahedra - A truncated tetrahedra
+	cubeoctahedron.vZome - A cubeoctahedron
+   	truncated-tetrahedra.vZome - a truncated tetrahedra
 platonic solids
-    cube.vZome - cube
-    tetrahedron.vZome - A regular tetrahedron
+	cube.vZome - cube
+	tetrahedron.vZome - A regular tetrahedron
