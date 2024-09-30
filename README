@@ -1,11 +1,24 @@
-Hello, this directory is really big and contains a lot of shapes, if you are looking for a shape then here is a list of every file and subfile and all the categories of this.
-
+Here is a list of all the shapes
 
 
 archimedean solids
 	cubeoctahedron.vZome - A cubeoctahedron
-   	truncated-tetrahedra.vZome - a truncated tetrahedra
+   	truncated-tetrahedron.vZome - a truncated tetrahedron
+	truncated-icosahedron.vZome - A truncated icosahedron
+
 platonic solids
-	cube.vZome - cube
+	cube.vZome - A regular cube
 	tetrahedron.vZome - A regular tetrahedron
 	octahedron.vZome - A regular octahedron
+	icosahedron.vZome - A regular icosahedron
+	dodecahedron.vZome - A regular dodecahedron
+catalan solids
+	rhombic-triacontahedron.vZome - A rhombic triacontahedron
+platonic compounds
+	five-cubes.vZome - 5 different cubes
+	two-tetrahedra.vZome - 2 different tetrahedra
+kepler-poinsot polyhedra
+	great-dodecahedron.vZome - A great dodecahedron
+
+	
+
